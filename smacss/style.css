@@ -1,0 +1,59 @@
+/* NEED to be in this order */
+/* Base */
+
+img {
+    max-width: 100%
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+/* Layout */
+
+.col {
+    float: left;
+    padding: 10px
+}
+
+.col1 {
+    width: 8.333333%
+}
+
+/* Modules */
+
+.submit-button {
+
+}
+
+.header {
+
+}
+
+.footer {
+
+}
+
+.card {
+
+}
+
+/* State */
+
+.listItemActive {
+    color: red;
+}
+
+.navOpen {
+
+}
+
+.navClosed {
+
+}
+
+/* Themes */
+
+.myThemeNav {
+    background-color: green;
+}

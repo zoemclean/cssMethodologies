@@ -1,0 +1,59 @@
+/* .button1 {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border-radius: 10%;
+    border: 10px solid black;
+}
+
+.button2 {
+    width: 150px;
+    height: 75px;
+    background-color: blue;
+    border-radius: 10%;
+    border: 10px solid black;
+} */
+
+.button {
+    width: 100px;
+    height: 50px;
+    border-radius: 10%;
+    border: 2px solid black;
+}
+
+.buttonLarge {
+    width: 150px;
+    height: 75px;
+}
+
+.borderRed {
+    border-color: red;
+}
+
+.borderBlue {
+    border-color: blue;
+}
+
+.borderGreen {
+    border-color: green;
+}
+
+.flex {
+    display: flex;
+}
+
+.justifyContentCenter {
+    justify-content: center;
+}
+
+.justifyContentStart {
+    justify-content: flex-start;
+}
+
+.justifyContentEnd {
+    justify-content: flex-end;
+}
+
+.alignItemCenter {
+    align-items: center;
+}

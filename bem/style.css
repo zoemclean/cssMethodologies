@@ -1,0 +1,20 @@
+/* .block
+.block__element
+.block--modifier */
+
+
+.registerForm {
+    padding: 20px;
+    border: 12px solid black;
+}
+
+.registerForm__username,
+.registerForm__password {
+    width: 100%;
+    line-height: 400;
+    border: 1px solid blue;
+}
+
+.registerForm__username--large{
+    height: 100px;
+}
